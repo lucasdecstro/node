@@ -1,0 +1,1 @@
+const multiplica = require("../B/C/D/mod")
