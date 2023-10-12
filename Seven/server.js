@@ -24,6 +24,6 @@ app.get("/contato", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log("Acessar: http://localhost:3000")
+  console.log("Acessar: http://localhost:3000");
   console.log("Rodaaaando");
 });
